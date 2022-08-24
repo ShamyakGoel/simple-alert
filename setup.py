@@ -2,7 +2,7 @@ from setuptools import setup
 setup(
   name = 'simple-alert',
   packages = ['simple-alert'],
-  version = '1.0.1',
+  version = '1.0.2',
   license='MIT',
   description = 'This is a library that give alerts on terminal',
   author = 'Shamyak',
@@ -10,7 +10,7 @@ setup(
   url = 'https://github.com/ShamyakGoel/simple-alert',
   download_url = 'https://github.com/ShamyakGoel/simple-alert/archive/refs/tags/v_11.tar.gz',
   keywords = ['simple-alert', 'ShamyakGoel', 'codewithshamyak', 'coding with shamyak', 'alert', 'alerts'],
-  long_description=open('desc', 'r').read(),
+  long_description=open('README', 'r').read(),
   install_requires=[
           'termcolor'
       ],
