@@ -2,7 +2,7 @@ from setuptools import setup
 setup(
   name = 'simple-alert',
   packages = ['simple-alert'],
-  version = '1.0',
+  version = '1.0.1',
   license='MIT',
   description = 'This is a library that give alerts on terminal',
   author = 'Shamyak',
