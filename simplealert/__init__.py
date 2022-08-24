@@ -2,6 +2,7 @@ from termcolor import cprint
 import sys
 __all__ = ['config', 'custom_alert', 'alert']
 _cprint = cprint
+
 del cprint
 default_success_color = 'green'
 default_error_color = 'red'
