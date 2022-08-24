@@ -8,7 +8,7 @@ setup(
   author = 'Shamyak',
   author_email = 'sj907822@gmail.com',
   url = 'https://github.com/user/simple-alert',
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',
+  download_url = 'https://github.com/ShamyakGoel/simple-alert/archive/refs/tags/v_1.tar.gz',
   keywords = ['simple-alert', 'ShamyakGoel', 'codewithshamyak', 'coding with shamyak', 'alert', 'alerts'],
   install_requires=[
           'termcolor'

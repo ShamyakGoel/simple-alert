@@ -1,0 +1,10 @@
+LICENSE
+README
+setup.cfg
+setup.py
+simple-alert/__init__.py
+simple_alert.egg-info/PKG-INFO
+simple_alert.egg-info/SOURCES.txt
+simple_alert.egg-info/dependency_links.txt
+simple_alert.egg-info/requires.txt
+simple_alert.egg-info/top_level.txt
