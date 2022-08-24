@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
 Name: simplealert
-Version: 1.0
+Version: 1.1
 Summary: This is a library that give alerts on terminal
 Home-page: https://github.com/ShamyakGoel/simple-alert
 Author: Shamyak
 Author-email: sj907822@gmail.com
 License: MIT
-Download-URL: https://github.com/ShamyakGoel/simple-alert/archive/refs/tags/v_10.tar.gz
+Download-URL: https://github.com/ShamyakGoel/simple-alert/archive/refs/tags/v_11.tar.gz
 Keywords: simple-alert,ShamyakGoel,codewithshamyak,coding with shamyak,alert,alerts
 Platform: UNKNOWN
 Classifier: Development Status :: 5 - Production/Stable
