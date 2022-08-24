@@ -7,15 +7,16 @@ setup(
   description = 'This is a library that give alerts on terminal',
   author = 'Shamyak',
   author_email = 'sj907822@gmail.com',
-  url = 'https://github.com/user/simple-alert',
+  url = 'https://github.com/ShamyakGoel/simple-alert',
   download_url = 'https://github.com/ShamyakGoel/simple-alert/archive/refs/tags/v_1.tar.gz',
   keywords = ['simple-alert', 'ShamyakGoel', 'codewithshamyak', 'coding with shamyak', 'alert', 'alerts'],
+  long_description=open('README', 'r').read(),
   install_requires=[
           'termcolor'
       ],
   classifiers=[
-    'Development Status :: 3 - Alpha',      # Chose either "3 - Alpha", "4 - Beta" or "5 - Production/Stable" as the current state of your package
-    'Intended Audience :: Developers',      # Define that your audience are developers
+    'Development Status :: 5 - Production/Stable',
+    'Intended Audience :: Developers',
     'Topic :: Software Development :: Build Tools',
     'License :: OSI Approved :: MIT License',
     'Programming Language :: Python :: 3',
