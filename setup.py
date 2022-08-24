@@ -2,13 +2,13 @@ from setuptools import setup
 setup(
   name = 'simplealert',
   packages = ['simplealert'],
-  version = '1.0',
+  version = '1.1',
   license='MIT',
   description = 'This is a library that give alerts on terminal',
   author = 'Shamyak',
   author_email = 'sj907822@gmail.com',
   url = 'https://github.com/ShamyakGoel/simple-alert',
-  download_url = 'https://github.com/ShamyakGoel/simple-alert/archive/refs/tags/v_10.tar.gz',
+  download_url = 'https://github.com/ShamyakGoel/simple-alert/archive/refs/tags/v_11.tar.gz',
   keywords = ['simple-alert', 'ShamyakGoel', 'codewithshamyak', 'coding with shamyak', 'alert', 'alerts'],
   long_description=open('README', 'r').read(),
   install_requires=[
